@@ -31,7 +31,7 @@ The gyro attitude filter was implemented by converting to quaternion from Euler 
 
 Results:
 
-![img7](images/image1.png)
+![img7](images/image7.png)
 
 #### Implement all of the elements of the prediction step for the estimator
 
